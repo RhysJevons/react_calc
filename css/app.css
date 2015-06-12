@@ -1,0 +1,7 @@
+p#calculatorDisplay {
+	min-height:75px;
+	font-size: 40px;
+	border-style: solid;
+    border-color: #2ba6cb;
+    padding: 5px;
+}
